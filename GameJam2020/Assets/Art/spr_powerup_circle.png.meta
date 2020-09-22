@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 4782ab9c72bf3694ea2e0a04d0c00cb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5993576595963589163
+    second: spr_powerup_circle_0
+  - first:
+      213: 4823077476324751174
+    second: spr_powerup_circle_1
+  - first:
+      213: 6783782219440295084
+    second: spr_powerup_circle_2
+  - first:
+      213: -1017813242816173412
+    second: spr_powerup_circle_3
+  - first:
+      213: -4045737697874334444
+    second: spr_powerup_circle_4
+  - first:
+      213: -802972654181328128
+    second: spr_powerup_circle_5
+  - first:
+      213: -3549115002598533768
+    second: spr_powerup_circle_6
+  - first:
+      213: -9167343546480855199
+    second: spr_powerup_circle_7
+  - first:
+      213: -3869018918565474421
+    second: spr_powerup_circle_8
+  - first:
+      213: -5224838620120043600
+    second: spr_powerup_circle_9
+  - first:
+      213: -7725247001262488847
+    second: spr_powerup_circle_10
+  - first:
+      213: -1462343897257424126
+    second: spr_powerup_circle_11
+  - first:
+      213: 1383306484256852613
+    second: spr_powerup_circle_12
+  - first:
+      213: 3025743450938041822
+    second: spr_powerup_circle_13
+  - first:
+      213: -2519215290965946290
+    second: spr_powerup_circle_14
+  - first:
+      213: 7050796861918520443
+    second: spr_powerup_circle_15
+  - first:
+      213: -8093226813284220447
+    second: spr_powerup_circle_16
+  - first:
+      213: 1045829869895090269
+    second: spr_powerup_circle_17
+  - first:
+      213: -5218650135598876705
+    second: spr_powerup_circle_18
+  - first:
+      213: -173895878826666913
+    second: spr_powerup_circle_19
+  - first:
+      213: -8909744503682149562
+    second: spr_powerup_circle_20
+  - first:
+      213: -5198595541399239832
+    second: spr_powerup_circle_21
+  - first:
+      213: -4631514594913666432
+    second: spr_powerup_circle_22
+  - first:
+      213: 94992159265644201
+    second: spr_powerup_circle_23
+  - first:
+      213: 3351939379690910295
+    second: spr_powerup_circle_24
+  - first:
+      213: 4074295379191062861
+    second: spr_powerup_circle_25
+  - first:
+      213: -5259745325219244153
+    second: spr_powerup_circle_26
+  - first:
+      213: 905656810831871032
+    second: spr_powerup_circle_27
+  - first:
+      213: 800945352947541156
+    second: spr_powerup_circle_28
+  - first:
+      213: 8219990260726579779
+    second: spr_powerup_circle_29
+  - first:
+      213: -1403175353121308785
+    second: spr_powerup_circle_30
+  - first:
+      213: 1710266941807848558
+    second: spr_powerup_circle_31
+  - first:
+      213: -5342007219691905299
+    second: spr_powerup_circle_32
+  - first:
+      213: 6373888040431428230
+    second: spr_powerup_circle_33
+  - first:
+      213: 1773576233919250657
+    second: spr_powerup_circle_34
+  - first:
+      213: 4127822627054611831
+    second: spr_powerup_circle_35
+  - first:
+      213: 4548090761456252398
+    second: spr_powerup_circle_36
+  - first:
+      213: 3619945515316136525
+    second: spr_powerup_circle_37
+  - first:
+      213: 1534464935784487381
+    second: spr_powerup_circle_38
+  - first:
+      213: -3421139659061732645
+    second: spr_powerup_circle_39
+  - first:
+      213: -7864745303072610509
+    second: spr_powerup_circle_40
+  - first:
+      213: 2800070038721291946
+    second: spr_powerup_circle_41
+  - first:
+      213: 2447974576522767791
+    second: spr_powerup_circle_42
+  - first:
+      213: -3774607529947858173
+    second: spr_powerup_circle_43
+  - first:
+      213: -9198477804573870232
+    second: spr_powerup_circle_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_powerup_circle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223180a8267d2350800000000000000
+      internalID: 5993576595963589163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_powerup_circle_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 208
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647368439630fe240800000000000000
+      internalID: 4823077476324751174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_powerup_circle_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac895f8cf5d42e50800000000000000
+      internalID: 6783782219440295084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_powerup_circle_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 197
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae04e8f3000e1f0800000000000000
+      internalID: -1017813242816173412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_powerup_circle_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2bcfbff6aad7c0800000000000000
+      internalID: -4045737697874334444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
