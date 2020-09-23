@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"2640056000001319049",
+		"product_id":"736430079244644103",
+		"client_id":"457481048930911232",
+		"client_secret":"14B6D737C9D8680DE06378FBF2D8C946509E6EE26CE7C39E352B2D2FF08FAF02",
+		"app_id":"102943075",
+		"package_name":"com.shapekisser.shapekissergame",
+		"api_key":"CgB6e3x9AgAMVUj3rsCEqf28mJjGOGKiOOWSiZ2hruG0mZGYca356bcY6XTqVDgl6jk2sF1JFuHL89EY6Aez0xI0"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
