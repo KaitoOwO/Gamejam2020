@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 21300000, guid: 5ffd8b8acee03684d8967bec40bbea4e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c886dade6eb3e7b4cbf96f7958dd2266, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -117,6 +117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joystickCanvas: {fileID: 0}
   EndCanvas: {fileID: 0}
+  startedEndingScene: 0
 --- !u!61 &3299934119482429061
 BoxCollider2D:
   m_ObjectHideFlags: 0
