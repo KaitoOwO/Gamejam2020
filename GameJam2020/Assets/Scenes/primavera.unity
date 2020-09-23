@@ -6994,6 +6994,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5918432075460132958, guid: 0e316520eb7f70f429d1344bb5cb0f16,
+        type: 3}
+      propertyPath: LoopSong
+      value: SpringTheme
+      objectReference: {fileID: 0}
     - target: {fileID: 5918432075460132959, guid: 0e316520eb7f70f429d1344bb5cb0f16,
         type: 3}
       propertyPath: m_Name

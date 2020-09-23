@@ -66,7 +66,7 @@ public class Goal : MonoBehaviour
         if (!buttonPressed)
         {
             buttonPressed = true;
-            LevelManager.instance.loadLevelAsyncWithIndex(0);
+            LevelManager.instance.loadLevelSelectionScreen();
         }
 
     }

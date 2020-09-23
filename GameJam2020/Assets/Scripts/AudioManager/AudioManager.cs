@@ -8,27 +8,38 @@ public class AudioManager : MonoBehaviour
     public static AudioManager instance;
 
     public AudioMixerGroup mixerGroup;
-
+    public string LoopSong;
+    private string actualBGMusic;
     public Sound[] sounds;
 
-    public string LoopSong;
-    public string newLoopSong;
+
     void Awake()
     {
         if (instance != null)
         {
-            if (LoopSong != null)
+            if (instance.actualBGMusic == null)
             {
-                instance.newLoopSong = LoopSong;
-                instance.Stop(instance.LoopSong);
-                instance.Play(LoopSong);
+                instance.actualBGMusic = LoopSong;
+                instance.Play(instance.actualBGMusic);
             }
+            else if (LoopSong != null)
+            {
+                if (LoopSong != instance.actualBGMusic)
+                {
+                    instance.Stop(instance.actualBGMusic);
+                    instance.actualBGMusic = LoopSong;
+                    instance.Play(instance.actualBGMusic);
+                }
+            }
+
             Destroy(gameObject);
         }
         else
         {
 
             instance = this;
+            instance.actualBGMusic = LoopSong;
+
             DontDestroyOnLoad(gameObject);
         }
 
@@ -44,9 +55,9 @@ public class AudioManager : MonoBehaviour
 
     void Start()
     {
-        if (LoopSong != null)
+        if (actualBGMusic != null)
         {
-            Play(LoopSong);
+            Play(actualBGMusic);
         }
     }
 

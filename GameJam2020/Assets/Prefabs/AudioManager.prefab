@@ -44,8 +44,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mixerGroup: {fileID: 0}
+  LoopSong: MainMenu
   sounds:
-  - name: Theme2
+  - name: MainMenu
     clip: {fileID: 8300000, guid: 1f21cfd2188106f4ab7139aeab11d88a, type: 3}
     volume: 0.072
     volumeVariance: 0
@@ -81,8 +82,8 @@ MonoBehaviour:
     loop: 0
     mixerGroup: {fileID: 0}
     source: {fileID: 0}
-  - name: Theme2
-    clip: {fileID: 8300000, guid: fcb6924e269fa3c48910740606e353b9, type: 3}
+  - name: SpringTheme
+    clip: {fileID: 8300000, guid: 7a8199d8be8d5b446873f06fd6d5f76a, type: 3}
     volume: 0.158
     volumeVariance: 0
     pitch: 1
@@ -90,5 +91,12 @@ MonoBehaviour:
     loop: 1
     mixerGroup: {fileID: 0}
     source: {fileID: 0}
-  LoopSong: Theme2
-  newLoopSong: 
+  - name: Kiss
+    clip: {fileID: 8300000, guid: d79576c235ca0f44eaef5fb900763ef5, type: 3}
+    volume: 0.158
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 0}
+    source: {fileID: 0}
