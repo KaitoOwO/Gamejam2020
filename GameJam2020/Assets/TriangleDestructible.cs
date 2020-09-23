@@ -36,6 +36,7 @@ public class TriangleDestructible : MonoBehaviour
         // sr.enabled = false;
         yield return new WaitForSeconds(time);
         characterAnimator.SetBool("Dizzy", false);
+        AudioManager.instance.Play("Error");
         CMmultiChannel.m_AmplitudeGain = 0;
         Destroy(gameObject);
 

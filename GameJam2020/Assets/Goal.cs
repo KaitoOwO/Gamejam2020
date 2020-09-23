@@ -40,7 +40,6 @@ public class Goal : MonoBehaviour
         joystickCanvas.enabled = false;
         AudioManager.instance.Play("Kiss");
 
-        Debug.Log(other.gameObject.GetComponent<RectangleCharacterController>() != null);
 
         if (other.gameObject.GetComponent<RectangleCharacterController>() != null)
         {
@@ -66,7 +65,7 @@ public class Goal : MonoBehaviour
         if (!buttonPressed)
         {
             buttonPressed = true;
-            LevelManager.instance.loadLevelSelectionScreen();
+            LevelManager.instance.loadLevelAsyncWithIndex(0);
         }
 
     }

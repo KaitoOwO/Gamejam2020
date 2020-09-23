@@ -11,16 +11,23 @@ public class MenuManager : MonoBehaviour
     public Canvas canvas1;
     public Canvas canvas2;
 
+    private bool loading = false;
+
     public void GoToLevel(int sceneIndex)
     {
         LevelManager.instance.loadLevelAsyncWithIndex(sceneIndex);
     }
     public void GoToMenu(int canvas)
     {
-        StartCoroutine(LoadOtherCanvas(canvas));
+        if (!loading)
+        {
+            StartCoroutine(LoadOtherCanvas(canvas));
+
+        }
     }
     IEnumerator LoadOtherCanvas(int canvas)
     {
+        loading = true;
         transition.SetTrigger("start");
         yield return new WaitForSeconds(transitionTime);
         transition.SetTrigger("end");
@@ -36,6 +43,8 @@ public class MenuManager : MonoBehaviour
             canvas1.enabled = false;
             canvas2.enabled = true;
         }
+        loading = false;
+
 
     }
 

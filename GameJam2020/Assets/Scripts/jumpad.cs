@@ -13,6 +13,7 @@ public class jumpad : MonoBehaviour
         {
             other.attachedRigidbody.velocity = new Vector2(0, 0);
             other.attachedRigidbody.AddForce(transform.up * jumpForce);
+            AudioManager.instance.Play("Jump");
         }
     }
 
