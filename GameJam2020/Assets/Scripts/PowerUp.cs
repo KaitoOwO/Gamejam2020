@@ -66,6 +66,13 @@ public class PowerUp : MonoBehaviour
         {
             // Transformarse en cuadrado
             Transform newChar = character.transform.parent.transform.GetChild(0).GetChild(0);
+            Transform parent = character.transform.parent.transform.GetChild(0);
+
+
+            if (parent.name == "RectangleScaler")
+            {
+                parent.localScale = new Vector3(1, 1, 1);
+            }
             newChar.localScale = new Vector3(1, 1, 1);
             activateNewCharacter(newChar);
             changeCameraTarget(newChar);
@@ -75,7 +82,18 @@ public class PowerUp : MonoBehaviour
         else if (character.name != "TriangleCharacter" && powerUpType == TypeOfPowerUp.triangle)
         {
             // Transformarse en triangulo
-            Transform newChar = character.transform.parent.transform.GetChild(2);
+            Transform parent = character.transform.parent;
+            Transform newChar;
+            if (parent.name == "RectangleScaler")
+            {
+                newChar = character.transform.parent.transform.parent.transform.GetChild(2);
+            }
+            else
+            {
+                newChar = character.transform.parent.transform.GetChild(2);
+
+            }
+
             activateNewCharacter(newChar);
             changeCameraTarget(newChar);
 
