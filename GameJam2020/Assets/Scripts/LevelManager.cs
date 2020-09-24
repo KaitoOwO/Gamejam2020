@@ -41,8 +41,6 @@ public class LevelManager : MonoBehaviour
 
     public void loadLevelAsyncWithIndex(int index)
     {
-        Debug.Log(index);
-        Debug.Log(!onTransition);
 
         if (!onTransition)
         {
