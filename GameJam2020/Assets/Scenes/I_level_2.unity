@@ -188,6 +188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &39971557 stripped
@@ -262,6 +267,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -338,6 +348,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &87876029 stripped
@@ -412,6 +427,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -511,6 +531,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -881,6 +906,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &270278489 stripped
@@ -962,6 +992,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!1001 &315054179
@@ -1030,6 +1065,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -1130,6 +1170,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -1391,6 +1436,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &456000252 stripped
@@ -1471,6 +1521,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -1989,6 +2044,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &659598221 stripped
@@ -2069,6 +2129,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -2751,6 +2816,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!1001 &1094115892
@@ -2819,6 +2889,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -3175,6 +3250,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &1343846604 stripped
@@ -3339,6 +3419,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &1371108678 stripped
@@ -3419,6 +3504,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -13062,6 +13152,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!1 &1603759286
@@ -13165,6 +13260,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!1001 &1606986345
@@ -13233,6 +13333,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -13308,6 +13413,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -13416,6 +13526,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!1001 &1778474974
@@ -13484,6 +13599,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -13704,7 +13824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 404d93f3dd3c7b748acbe47434ad3554, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndex: 3
+  sceneIndex: 6
 --- !u!61 &1874810262
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13797,6 +13917,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -13990,6 +14115,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pichos (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
 --- !u!4 &1961992794 stripped
@@ -14064,6 +14194,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pichos
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831666190005473749, guid: c853e9bfb6b8b3e4ea96e348d2392cc3,
+        type: 3}
+      propertyPath: sceneIndex
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c853e9bfb6b8b3e4ea96e348d2392cc3, type: 3}
@@ -14512,7 +14647,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 23969e15936df4e4997251167d35bbf1,
+      objectReference: {fileID: 21300000, guid: 4f46275c66737d54ab8fd59587909629,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a5c7d45ac59f543baa68fd162adcad, type: 3}
